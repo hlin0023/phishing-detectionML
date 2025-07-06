@@ -32,7 +32,7 @@ The project leverages a rich dataset containing over 200,000 labeled URLs with 6
   - word2vec (gensim)
   - scipy
 
-> ⚠️ Note: You may need to download the dataset manually from the [UCI Repository](https://archive.ics.uci.edu/dataset/967/phiusiil+phishing+url+dataset) and adjust the file path in `a2.ipynb`.
+> ⚠️ Note: You may need to download the dataset manually from the [UCI Repository](https://archive.ics.uci.edu/dataset/967/phiusiil+phishing+url+dataset) and adjust the file path in `phishing detection ML.ipynb`.
 
 ## ⚙️ Project Structure
 
